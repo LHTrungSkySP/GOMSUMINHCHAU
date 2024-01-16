@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj": {}
+    "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj": {}
   },
   "projects": {
-    "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj": {
+    "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj",
+        "projectUniqueName": "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj",
         "projectName": "GOMSUMINHCHAU.v1",
-        "projectPath": "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj",
+        "projectPath": "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj",
         "packagesPath": "C:\\Users\\Welcome\\.nuget\\packages\\",
-        "outputPath": "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\obj\\",
+        "outputPath": "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Welcome\\AppData\\Roaming\\NuGet\\NuGet.Config",

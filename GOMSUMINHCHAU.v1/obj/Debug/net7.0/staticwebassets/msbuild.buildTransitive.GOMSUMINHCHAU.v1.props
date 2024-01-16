@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GOMSUMINHCHAU.v1.props" />
+</Project>
