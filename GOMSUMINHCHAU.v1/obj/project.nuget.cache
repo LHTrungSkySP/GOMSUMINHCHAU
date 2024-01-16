@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1R1CqVMbdtNXKJir0fMoabY11XixxXXmYV29RgvxUb2L2mWgSUqdaUyGUXemT4X1PBz66C2lU7chS2s9AxmCOA==",
+  "dgSpecHash": "GnhBCFvf/uBR5lWmjKPdP9onA9xkQkOg9T6577uvrEOcC/HIiGYS9oPGDpFrXZ9QeO77ZhTjxbOdtdKTaZEUMg==",
   "success": true,
-  "projectFilePath": "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj",
+  "projectFilePath": "D:\\GOMSUMINHCHAU\\GOMSUMINHCHAU.v1\\GOMSUMINHCHAU.v1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Welcome\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\Welcome\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
